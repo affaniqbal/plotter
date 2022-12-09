@@ -6,5 +6,5 @@ setup(
     description="Scientific data Plotter Python package",
     author="Affan Iqbal",
     license="MIT",
-    install_requires=["tk", "pandas", "matplotlib"],
+    install_requires=["tk", "openpyxl", "pandas", "matplotlib"],
 )
