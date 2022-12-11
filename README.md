@@ -1,6 +1,8 @@
 # Plotter
 
-A simple-to-use Python package which allows you to plot x,y data using Python.
+A simple-to-use Python package which allows scientific researchers to make use of Python to plot scientific which has an x,y format using Python.
+
+Please ensure you make a new Python environment via your package manager. If you need help to do this, I'm happy to guide via email or jump onto a zoom call, contact me at ani24@cam.ac.uk.
 
 To install the scientific-data-plotter package via PyPi, run the following command in your terminal:
 
